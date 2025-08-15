@@ -16,7 +16,6 @@ This project covers:
 - JavaScript (ES6+)
 - MVC Architecture
 - Express.js
-- Build Tool - Node.js
 ## How to Run
 
 ```bash
